@@ -11,6 +11,7 @@ Auto-detect dukungan native `ptv: true` → fallback ke raw proto kalau tidak te
 [![license](https://img.shields.io/npm/l/nano-payload.svg?style=flat-square&color=D85A30)](./LICENSE)
 [![node version](https://img.shields.io/node/v/nano-payload.svg?style=flat-square&color=BA7517)](https://nodejs.org)
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-534AB7.svg?style=flat-square)](https://github.com/reinhald90/nano-payload-v1.0.0/pulls)
+[![GitHub repo](https://img.shields.io/badge/GitHub-nano--payload-2C2C2A.svg?style=flat-square&logo=github)](https://github.com/reinhald90/nano-payload-v1.0.0)
 
 </div>
 
@@ -114,7 +115,7 @@ Pull request dan issue terbuka untuk siapa saja. Kalau menemukan fork baileys de
 
 <div align="center">
 
-Dibuat oleh **Azure Ashiro** untuk komunitas **Lycount**
+Dibuat oleh **Azure Ashiro** Founder komunitas **Lycount**
 
 MIT License
 
